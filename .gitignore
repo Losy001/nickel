@@ -1,0 +1,20 @@
+# Build output
+.build/
+release/
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+
+# Editors / debuggers
+.vs/
+.vscode/
+*.rdbg
+*.sln
+*.suo
+
+# OS
+Thumbs.db
+desktop.ini

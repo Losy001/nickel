@@ -1,0 +1,7 @@
+* text=auto
+
+*.jai  text linguist-language=Jai
+*.hlsl text
+
+*.cso binary
+*.ico binary
